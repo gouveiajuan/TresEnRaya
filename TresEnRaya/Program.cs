@@ -10,7 +10,7 @@ namespace TresEnRaya
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vamos a jugar 3 en raya.");
+            Console.WriteLine("Vamos a jugar 3 en raya");
 
             while (Resultado == true)
             {
